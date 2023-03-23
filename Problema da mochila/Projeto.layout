@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="Principal.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="20" Column="2"/>
+			<Selection Line="5" Column="2"/>
+		</File>
+		<File Name="GG.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="18" Column="16"/>
+		</File>
+		<File Name="GG.cpp" Top="Yes" Tabpos="3" TopLine="15">
+			<Cursor Line="12" Column="2"/>
+		</File>
+	</Files>
+</Layout>

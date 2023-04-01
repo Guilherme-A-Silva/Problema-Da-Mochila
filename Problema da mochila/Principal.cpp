@@ -17,6 +17,5 @@ int main(){
 	MTest.ValorMaximo = Unidade3(MTest.PesoMaximoSuportado, BTest.Pesos, BTest.Valores, n);
 
 	cout << "Valor maximo: " << MTest.ValorMaximo << endl;
-	
 	return 0;
 }

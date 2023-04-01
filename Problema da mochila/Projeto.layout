@@ -2,13 +2,13 @@
 <Layout>
 	<Files>
 		<File Name="Principal.cpp" Top="Yes" Tabpos="1" TopLine="1">
-			<Cursor Line="12" Column="2"/>
+			<Cursor Line="19" Column="56"/>
 		</File>
-		<File Name="GG.h" Top="No" Tabpos="2" TopLine="3">
-			<Cursor Line="18" Column="16"/>
+		<File Name="GG.h" Top="No" Tabpos="2" TopLine="7">
+			<Cursor Line="14" Column="10"/>
 		</File>
-		<File Name="GG.cpp" Top="No" Tabpos="3" TopLine="1">
-			<Cursor Line="22" Column="24"/>
+		<File Name="GG.cpp" Top="No" Tabpos="3" TopLine="21">
+			<Cursor Line="27" Column="16"/>
 		</File>
 	</Files>
 </Layout>
